@@ -94,16 +94,16 @@ repeat
  task.spawn(function()
     local textList = {
         -- Bozos
-        'G', 'Ga', 'Gay',
-        'Ga', 'G',
+        'H', 'He', 'Hey',
+        'He', 'H',
         -- Ak 47
-        'A', 'Ak', 'Ak-', 'Ak-4', 'Ak-47',
-        'Ak-4', 'Ak-', 'Ak', 'A',
+        'di', 'disc', 'discord', 'discord.gg/', 'discord.gg/HitHub',
+        'discord.gg/', 'discord', 'disc', 'di',
         -- Credits
-        'M', 'Ma', 'Mad', 'Made', 'Made B', 'Made By', 'Made By:', 'Made By: l', 'Made By: lk', 'Made By: lks',
-        'Made By: lksi', 'Made By: lksiw', 'Made By: lksiwj', 'Made By: lksiwja', 'Made by: lksiwjas', 'Made By: lksiwjas.',
-        'Made By: lksiwjas', 'Made By: lksiwja', 'Made By: lksiwj', 'Made By: lksiw', 'Made By: lksi', 'Made By: lks', 'Made By: lk',
-        'Made By: l', 'Made By:', 'Made By', 'Made B', 'Made', 'Mad', 'Ma', 'M'
+        'M', 'Ma', 'Mad', 'Made', 'Made B', 'Made By', 'Made By:', 'Made By: m', 'Made By: mr', 'Made By: mrh',
+        'Made By: mrh7', 'Made By: mrh7t', 'Made By: mrh7tt', 'Made By: mrh7tta', 'Made by: mrh7tta', 'Made By: mrh7tta.',
+        'Made By: mrh7tta', 'Made By: mrh7tt', 'Made By: mrh7t', 'Made By: mrh7', 'Made By: mrh', 'Made By: mr', 'Made By: mr',
+        'Made By: m', 'Made By:', 'Made By', 'Made B', 'Made', 'Mad', 'Ma', 'M'
     }
     while wait(0.2) do
         for _, obj in pairs(menu:GetDescendants()) do
